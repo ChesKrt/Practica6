@@ -40,3 +40,10 @@ Estamos viendo la forma en la que el sistema operativo funciona, esto con el fin
 
 ---
 
+Inglés Técnico Para Videojuegos III
+
+Profesor: Gonzalo Lezana
+
+Se esta viendo la forma de presentar una idea para un videojuego y poder transmitir el mensaje en el idioma de ingles, viendo el vocabulario necesario en ingles
+
+---
