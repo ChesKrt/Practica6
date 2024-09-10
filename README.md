@@ -13,3 +13,11 @@ Principios de Composicion y Diseño
 Profesor: Melo Ortiz Dora Roberto
 
 Uso del Photoshop para la edición y montaje de imagenes como su utilidad en el desarrollo de juego
+
+---
+
+Programación En Lenguajes Interpretados	
+
+Profesor: Ulises Jonathan Miranda Charles
+
+Estamos viendo el uso de Git para hacer repositorios y posteriormente poder hacer una página Wiki usando distintos lenguajes de programacion
