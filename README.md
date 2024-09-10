@@ -37,3 +37,6 @@ Sistemas Operativos y Redes
 Profesor: Alcides Garcia Albora
 
 Estamos viendo la forma en la que el sistema operativo funciona, esto con el fin de poder abrir un servidor en la nube y hacer nuestras practicas en ese medio
+
+---
+
