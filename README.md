@@ -21,3 +21,11 @@ Programación En Lenguajes Interpretados
 Profesor: Ulises Jonathan Miranda Charles
 
 Estamos viendo el uso de Git para hacer repositorios y posteriormente poder hacer una página Wiki usando distintos lenguajes de programacion
+
+---
+
+Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
+
+Profesor: Sebastian Hernandez Mejia
+
+Planificacion para el desarrollo de aplicaciones y sitios web como la realización de documentación para los proyectos que se haránt 
