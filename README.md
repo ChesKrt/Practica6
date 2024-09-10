@@ -28,4 +28,4 @@ Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
 
 Profesor: Sebastian Hernandez Mejia
 
-Planificacion para el desarrollo de aplicaciones y sitios web como la realización de documentación para los proyectos que se haránt 
+Planificacion para el desarrollo de aplicaciones y sitios web como la realización de documentación para los proyectos que se haran
