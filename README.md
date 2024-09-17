@@ -47,3 +47,7 @@ Profesor: Gonzalo Lezana
 Se esta viendo la forma de presentar una idea para un videojuego y poder transmitir el mensaje en el idioma de ingles, viendo el vocabulario necesario en ingles
 
 ---
+
+## Practica 7
+
+**Parrafo para demostrar la creación de la v1.0.0 en este repositorio**: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus, risus nec gravida porta, turpis metus gravida arcu, gravida tristique sem nisl ac ante. Suspendisse potenti. Nam vel interdum purus, in consectetur purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In ornare nulla quis turpis imperdiet, vel pretium orci accumsan. Quisque suscipit viverra ex eget sollicitudin. Vivamus ac aliquam erat. Integer tincidunt dapibus ligula sit amet accumsan. Nunc aliquet iaculis justo, sed scelerisque purus semper ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris pretium mauris nec gravida semper. Praesent sit amet diam sed ligula dapibus faucibus eleifend vel diam. Sed nibh diam, porttitor egestas magna at, ultricies rhoncus massa. Donec pulvinar felis nec cursus posuere. Nulla sed pharetra nunc.
