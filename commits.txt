@@ -1,0 +1,12 @@
+0acac9d (HEAD -> main, origin/main, Ingles) Modificacion Ingles README
+05a2b96 Fusion con Sistemas Operativos
+a1987c9 (Sistemas-Operativos) Modificacion del README
+7d82c72 Correcion de ortografia
+ac60fa2 Fusion con rama Proyecto Semestral
+07a0b2f (Proyecto-Semestral, Programacion-en-lenguajes-interpretados) Modificacion del README
+ffcb03c Merge branch 'Principios-de-Composicion-y-Diseno'
+e9d5a38 (Principios-de-Composicion-y-Diseno) Modificacion del README con la informacion de la materia
+55d41d0 Fusion con la rama 'DiseñoVideojuegos'
+d2ef482 Creacion de la rama Diseño de Juegos
+9aa1d0d (DiseñoVideojuegos) Se modifico el README.md con información de la materia de Diseño de juegos
+77b9179 Primer commit
